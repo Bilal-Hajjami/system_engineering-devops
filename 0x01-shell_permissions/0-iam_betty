@@ -1,2 +1,5 @@
 #!/bin/bash
 su betty
+git add 0x01-shell_permissions/0-iam_betty
+git commit -m "Add script to switch to user betty"
+git push
